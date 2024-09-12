@@ -21,6 +21,14 @@
 $ make
 ```
 
+## Запуск игры
+
+```
+$ make install
+cd build
+./gameDesktop
+```
+
 ## Тесты
 
 Unit-тесты реализованы при помощи gtest/gtest.h, отчет о покрытии при помощи [LCOV](https://github.com/linux-test-project/lcov)

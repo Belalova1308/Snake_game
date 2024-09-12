@@ -15,10 +15,6 @@
 
 ![cli_gif](doc/cli_gif.gif)
 
-### GUI Interface SNAKE
-
-![gui_gif](doc/gui_gif.gif)
-
 ## Сборка проекта
 
 ```
